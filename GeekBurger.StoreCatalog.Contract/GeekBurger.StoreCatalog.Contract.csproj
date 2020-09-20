@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>StoreCatalog.Contract</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>GeekBurger.StoreCatalog.Contract</PackageId>
+    <Authors>LaFuria</Authors>
+    <Product>GeekBurger.StoreCatalog.Contract</Product>
+    <Description>GeekBurger StoreCatalog Microservice Contract</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <Version>1.1.3</Version>
+    <Company>FIAP</Company>
+  </PropertyGroup>
+
+</Project>
